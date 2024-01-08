@@ -16,8 +16,8 @@ Another subfile focuses on registers, consisting of 32 synchronous D flip-flops 
 ## Control Logic
 
 The project also includes a separate control block subfile for interpreting instruction sets, determining the operation type, and generating select lines for subsequent stages. An additional subfile, the ALU control block, is implemented to determine the ALU operation based on its inputs.
-![image](https://github.com/Mikeantabian/Logisim-CPU/assets/119545472/ff2e2cfe-9f4f-4432-bfc2-028ebad55440)
-![image](https://github.com/Mikeantabian/Logisim-CPU/assets/119545472/91803f7e-8486-402e-a002-7fdb4154bed8)
+<img src="https://github.com/Mikeantabian/Logisim-CPU/assets/119545472/ff2e2cfe-9f4f-4432-bfc2-028ebad55440" alt="Image 1" width="400"/> <img src="https://github.com/Mikeantabian/Logisim-CPU/assets/119545472/91803f7e-8486-402e-a002-7fdb4154bed8" alt="Image 2" width="400"/>
+
 
 ## Integration and Execution
 
